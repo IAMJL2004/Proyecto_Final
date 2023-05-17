@@ -1,0 +1,6 @@
+PRODUCTO,UNIDADES,PAGAR
+jabon,200,400.0
+jabon,1,2.0
+jabon,1,2.0
+shampoo,4,28.0
+papel,5,10.0

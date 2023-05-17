@@ -1,0 +1,4 @@
+Nombre, Proveedor, Fecha, Detalles, Precio, Cantidad
+jabon,dove,12-10,para el rafa,2.0,798
+papel,scott,12-10,para el hogar,2.0,95
+shampoo,dove,15-05,shampoo anti caida,7.0,8
